@@ -1,5 +1,5 @@
 # Task Manager
-
+![Task Manager](assets/task-manager.png)
 Gerenciador de tarefas desenvolvido com HTML, CSS e JavaScript.
 
 ## Funcionalidades
