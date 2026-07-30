@@ -21,4 +21,4 @@ Gerenciador de tarefas desenvolvido com HTML, CSS e JavaScript.
 
 ## Objetivo
 
-Projeto desenvolvido para praticar manipulação do DOM, eventos em JavaScript e armazenamento de dados no navegador.
+Projeto desenvolvido para praticar manipulação do DOM, eventos em JavaScript e armazenamento de dados utilizando LocalStorage.
